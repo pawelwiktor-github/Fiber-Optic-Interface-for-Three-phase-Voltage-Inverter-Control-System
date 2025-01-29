@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_1-3
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_1-5
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_1-8
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_2-3
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_2-5
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_2-8
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_3-3
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_3-5
+Removed Pin From Net: NetName=GND Pin=AFBR-TX_3-8
+Removed Pin From Net: NetName=GND Pin=C4_1-2
+Removed Pin From Net: NetName=GND Pin=C4_2-2
+Removed Pin From Net: NetName=GND Pin=C4_3-2
+Removed Pin From Net: NetName=GND Pin=C5_1-2
+Removed Pin From Net: NetName=GND Pin=C5_2-2
+Removed Pin From Net: NetName=GND Pin=C5_3-2
+Removed Pin From Net: NetName=GND Pin=C6_1-2
+Removed Pin From Net: NetName=GND Pin=C6_2-2
+Removed Pin From Net: NetName=GND Pin=C6_3-2
+Removed Pin From Net: NetName=GND Pin=GND-TX_1-1
+Removed Pin From Net: NetName=GND Pin=GND-TX_2-1
+Removed Pin From Net: NetName=GND Pin=GND-TX_3-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=Data_Out_PWMH3 Pin=J60-10
+Removed Pin From Net: NetName=Data_Out_PWML3 Pin=J60-12
+Removed Pin From Net: NetName=Data_In_EncA Pin=J60-14
+Removed Pin From Net: NetName=Data_In_EncB Pin=J60-18
+Removed Pin From Net: NetName=Data_In_EncI Pin=J60-20
+Removed Pin From Net: NetName=AGND Pin=J60-37
+Removed Pin From Net: NetName=AGND Pin=J60-39
+Removed Pin From Net: NetName=GND Pin=R4_1-1
+Removed Pin From Net: NetName=GND Pin=R4_2-1
+Removed Pin From Net: NetName=GND Pin=R4_3-1
+Removed Member From Class: ClassName=AFBR-TX1 Member=GND-TX_1
+Removed Member From Class: ClassName=AFBR-RX2 Member=GND-TX_2
+Removed Member From Class: ClassName=AFBR-RX3 Member=GND-TX_3
+Removed Member From Class: ClassName=AFBR-RX1 Member=MES-TX_1
+Removed Member From Class: ClassName=AFBR-RX2 Member=MES-TX_2
+Change Component Comment : Designator=GND-TX_1 Old Comment=PK2 New Comment=PK_1
+Change Component Comment : Designator=GND-TX_2 Old Comment=PK2 New Comment=PK_1
+Change Component Comment : Designator=GND-TX_3 Old Comment=PK2 New Comment=PK_1
+Change Component Comment : Designator=GND-TX_4 Old Comment=PK2 New Comment=PK_1
+Change Component Comment : Designator=GND-TX_5 Old Comment=PK2 New Comment=PK_1
+Change Component Comment : Designator=GND-TX_6 Old Comment=PK2 New Comment=PK_1
+Change Component Designator: OldDesignator=GND-TX_1 NewDesignator=GND_3_1
+Change Component Designator: OldDesignator=GND-TX_1 NewDesignator=GND_6_1
+Change Component Designator: OldDesignator=GND-TX_2 NewDesignator=GND_3_2
+Change Component Designator: OldDesignator=GND-TX_2 NewDesignator=GND_6_2
+Change Component Designator: OldDesignator=GND-TX_3 NewDesignator=GND_3_3
+Change Component Designator: OldDesignator=GND-TX_3 NewDesignator=GND_6_3
+Change Component Designator: OldDesignator=GND-TX_4 NewDesignator=GND_6_4
+Change Component Designator: OldDesignator=GND-TX_5 NewDesignator=GND_6_5
+Change Component Designator: OldDesignator=GND-TX_6 NewDesignator=GND_6_6
+Change Component Designator: OldDesignator=MES-RX_1 NewDesignator=MES_6_1
+Change Component Designator: OldDesignator=MES-RX_2 NewDesignator=MES_6_2
+Change Component Designator: OldDesignator=MES-RX_3 NewDesignator=MES_6_3
+Change Component Designator: OldDesignator=MES-RX_4 NewDesignator=MES_6_4
+Change Component Designator: OldDesignator=MES-RX_5 NewDesignator=MES_6_5
+Change Component Designator: OldDesignator=MES-RX_6 NewDesignator=MES_6_6
+Change Component Designator: OldDesignator=MES-TX_1 NewDesignator=MES_3_1
+Change Component Designator: OldDesignator=MES-TX_2 NewDesignator=MES_3_2
+Change Component Designator: OldDesignator=MES-TX_3 NewDesignator=MES_3_3
+Add Pin To Net: Unknown Pin: Pin J60-9
+Add Pin To Net: Unknown Pin: Pin J60-11
+Add Pin To Net: Unknown Pin: Pin J60-13
+Change Net Name : Old Net Name=GND New Net Name=GND_1
+Add Net: Net with name "GND_1" already exists
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Net: Name=GND
+Added Net: Name=LEDact
+Added Net: Name=OCPn
+Added Member To Class: ClassName=AFBR-TX1 Member=Component GND_3_1 (GND_3) PK_1
+Added Member To Class: ClassName=AFBR-RX2 Member=Component GND_6_2 (GND_6) PK_1
+Added Member To Class: ClassName=AFBR-RX3 Member=Component GND_6_3 (GND_6) PK_1
+Added Member To Class: ClassName=AFBR-RX1 Member=Component MES_6_1 (MES_6) PK_1
+Added Member To Class: ClassName=AFBR-RX2 Member=Component MES_6_2 (MES_6) PK_1

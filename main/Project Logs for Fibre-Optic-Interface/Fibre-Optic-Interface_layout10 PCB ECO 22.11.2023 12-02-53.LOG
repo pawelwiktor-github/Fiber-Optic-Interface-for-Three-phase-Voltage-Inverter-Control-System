@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=Signal_Vdc Pin=X??-4
+Removed Pin From Net: NetName=AGND Pin=X??-5
+Removed Member From Class: ClassName=AFBR-TX3 Member=GND_1_1
+Removed Member From Class: ClassName=Fibre-Optic-Interface_main Member=X??
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Added Member To Class: ClassName=AFBR-TX3 Member=Component GND_1_3 (GND_1) PK_1
+Added Member To Class: ClassName=AFBR-TX1 Member=Component MES_1_1 (MES_1) PK_1
+Added Member To Class: ClassName=AFBR-TX2 Member=Component MES_1_2 (MES_1) PK_1
+Added Member To Class: ClassName=AFBR-TX3 Member=Component MES_1_3 (MES_1) PK_1

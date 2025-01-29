@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=GND Pin=J60-01
+Removed Pin From Net: NetName=Data_Out_PWMH1 Pin=J60-02
+Removed Pin From Net: NetName=GND Pin=J60-03
+Removed Pin From Net: NetName=Data_Out_PWML1 Pin=J60-04
+Removed Pin From Net: NetName=GND Pin=J60-05
+Removed Pin From Net: NetName=Data_Out_PWMH2 Pin=J60-06
+Removed Pin From Net: NetName=GND Pin=J60-07
+Removed Pin From Net: NetName=Data_Out_PWML2 Pin=J60-08
+Removed Pin From Net: NetName=3.3V Pin=J60-09
+Removed Pin From Net: NetName=AGND Pin=RJ_Isns1-4
+Removed Pin From Net: NetName=Signal_Isns1 Pin=RJ_Isns1-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Isns2-4
+Removed Pin From Net: NetName=Signal_Isns2 Pin=RJ_Isns2-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Isns3-4
+Removed Pin From Net: NetName=Signal_Isns3 Pin=RJ_Isns3-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Vdc-4
+Removed Pin From Net: NetName=Signal_Vdc Pin=RJ_Vdc-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Vsns1-4
+Removed Pin From Net: NetName=Signal_Vsns1 Pin=RJ_Vsns1-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Vsns2-4
+Removed Pin From Net: NetName=Signal_Vsns2 Pin=RJ_Vsns2-5
+Removed Pin From Net: NetName=AGND Pin=RJ_Vsns3-4
+Removed Pin From Net: NetName=Signal_Vsns3 Pin=RJ_Vsns3-5
+Removed Member From Class: ClassName=AFBR-RX1 Member=GND
+Removed Member From Class: ClassName=AFBR-RX2 Member=GND
+Removed Member From Class: ClassName=AFBR-RX3 Member=GND
+Removed Member From Class: ClassName=AFBR-RX4 Member=GND
+Removed Member From Class: ClassName=AFBR-RX5 Member=GND
+Removed Member From Class: ClassName=AFBR-RX6 Member=GND
+Removed Member From Class: ClassName=AFBR-TX1 Member=GND
+Removed Member From Class: ClassName=AFBR-TX2 Member=GND
+Removed Member From Class: ClassName=AFBR-RX1 Member=R1_1
+Removed Member From Class: ClassName=AFBR-RX2 Member=R1_2
+Removed Member From Class: ClassName=AFBR-RX3 Member=R1_3
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Component Comment : Designator=C1_1 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C1_2 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C1_3 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C1_4 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C1_5 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C1_6 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C4_1 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C4_2 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=C4_3 Old Comment=Comment New Comment=10uF
+Change Component Comment : Designator=D_J1 Old Comment=Comment New Comment=DIODE_ZENER
+Change Component Comment : Designator=RJ_Isns1 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Isns2 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Isns3 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Vdc Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Vsns1 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Vsns2 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Comment : Designator=RJ_Vsns3 Old Comment=RJ-45 New Comment=4-338088-3
+Change Component Designator: OldDesignator=EncA NewDesignator=MES_1_1
+Change Component Designator: OldDesignator=EncB NewDesignator=MES_1_2
+Change Component Designator: OldDesignator=EncI NewDesignator=MES_1_3
+Change Component Designator: OldDesignator=GND NewDesignator=GND_1_1
+Change Component Designator: OldDesignator=GND NewDesignator=GND_1_2
+Change Component Designator: OldDesignator=GND NewDesignator=GND_1_3
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_1
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_2
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_3
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_4
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_5
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_6
+Change Component Designator: OldDesignator=PWMH1 NewDesignator=MES_2_1
+Change Component Designator: OldDesignator=PWMH2 NewDesignator=MES_2_3
+Change Component Designator: OldDesignator=PWMH3 NewDesignator=MES_2_5
+Change Component Designator: OldDesignator=PWML1 NewDesignator=MES_2_2
+Change Component Designator: OldDesignator=PWML2 NewDesignator=MES_2_4
+Change Component Designator: OldDesignator=PWML3 NewDesignator=MES_2_6
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TBG2-3.5MM_H"; UniqueID = "\BQOFQXSH" ("\BQOFQXSH")
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X??(CUC-SP-J1ST-S/R4LT)
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Added Pin To Net: NetName=Signal_Isns1 Pin=RJ_Isns1-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns1-5
+Added Pin To Net: NetName=Signal_Isns2 Pin=RJ_Isns2-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns2-5
+Added Pin To Net: NetName=Signal_Isns3 Pin=RJ_Isns3-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns3-5
+Added Pin To Net: NetName=Signal_Vdc Pin=RJ_Vdc-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vdc-5
+Added Pin To Net: NetName=Signal_Vsns1 Pin=RJ_Vsns1-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns1-5
+Added Pin To Net: NetName=Signal_Vsns2 Pin=RJ_Vsns2-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns2-5
+Added Pin To Net: NetName=Signal_Vsns3 Pin=RJ_Vsns3-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns3-5
+Added Pin To Net: NetName=Signal_Vdc Pin=X??-4
+Added Pin To Net: NetName=AGND Pin=X??-5
+Added Member To Class: ClassName=AFBR-RX1 Member=Component C1_1 (C1) 10uF
+Added Member To Class: ClassName=AFBR-RX2 Member=Component C1_2 (C1) 10uF
+Added Member To Class: ClassName=AFBR-RX3 Member=Component C1_3 (C1) 10uF
+Added Member To Class: ClassName=AFBR-RX4 Member=Component C1_4 (C1) 10uF
+Added Member To Class: ClassName=AFBR-RX5 Member=Component C1_5 (C1) 10uF
+Added Member To Class: ClassName=AFBR-RX6 Member=Component C1_6 (C1) 10uF
+Added Member To Class: ClassName=AFBR-TX1 Member=Component C4_1 (C4) 10uF
+Added Member To Class: ClassName=AFBR-TX2 Member=Component C4_2 (C4) 10uF
+Added Member To Class: ClassName=AFBR-TX3 Member=Component C4_3 (C4) 10uF
+Added Member To Class: ClassName=AFBR-TX4 Member=Component C6_4 10pF
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component D_J1 DIODE_ZENER
+Added Member To Class: ClassName=AFBR-TX1 Member=Component GND_1_1 (GND_1) PK_1
+Added Member To Class: ClassName=AFBR-TX2 Member=Component GND_1_2 (GND_1) PK_1
+Added Member To Class: ClassName=AFBR-RX1 Member=Component GND_2_1 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX2 Member=Component GND_2_2 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX3 Member=Component GND_2_3 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX4 Member=Component GND_2_4 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX5 Member=Component GND_2_5 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX6 Member=Component GND_2_6 (GND_2) PK_1
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component J1 Header_2
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component J60 MEC1-120-02-F-D-EM2
+Added Member To Class: ClassName=AFBR-TX4 Member=Component OCPn PK_1
+Added Member To Class: ClassName=AFBR-TX4 Member=Component R1_4 100R
+Added Member To Class: ClassName=AFBR-RX1 Member=Component R2_1 (R2) 100R
+Added Member To Class: ClassName=AFBR-RX2 Member=Component R2_2 (R2) 100R
+Added Member To Class: ClassName=AFBR-RX3 Member=Component R2_3 (R2) 100R
+Added Member To Class: ClassName=AFBR-RX5 Member=Component R2_5 (R2) 100R
+Added Member To Class: ClassName=AFBR-RX6 Member=Component R2_6 (R2) 100R
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns1 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns2 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns3 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vdc 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns1 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns2 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns3 4-338088-3
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component X?? RJ45 Vertical

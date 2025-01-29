@@ -1,0 +1,187 @@
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND_3_1
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND_6_1
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND_3_2
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND_6_2
+Change Component Designator: OldDesignator=GND_3 NewDesignator=GND_3_3
+Change Component Designator: OldDesignator=GND_3 NewDesignator=GND_6_3
+Change Component Designator: OldDesignator=GND_4 NewDesignator=GND_6_4
+Change Component Designator: OldDesignator=GND_5 NewDesignator=GND_6_5
+Change Component Designator: OldDesignator=GND_6 NewDesignator=GND_6_6
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES_3_1
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES_6_1
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES_3_2
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES_6_2
+Change Component Designator: OldDesignator=MES_3 NewDesignator=MES_3_3
+Change Component Designator: OldDesignator=MES_3 NewDesignator=MES_6_3
+Change Component Designator: OldDesignator=MES_4 NewDesignator=MES_6_4
+Change Component Designator: OldDesignator=MES_5 NewDesignator=MES_6_5
+Change Component Designator: OldDesignator=MES_6 NewDesignator=MES_6_6
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_1-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_2-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_3-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_4-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_5-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-RX_6-3
+Added Pin To Net: NetName=3.3V Pin=AFBR-TX_1-1
+Added Pin To Net: NetName=3.3V Pin=AFBR-TX_2-1
+Added Pin To Net: NetName=3.3V Pin=AFBR-TX_3-1
+Added Pin To Net: NetName=3.3V Pin=C1_1-1
+Added Pin To Net: NetName=3.3V Pin=C1_2-1
+Added Pin To Net: NetName=3.3V Pin=C1_3-1
+Added Pin To Net: NetName=3.3V Pin=C1_4-1
+Added Pin To Net: NetName=3.3V Pin=C1_5-1
+Added Pin To Net: NetName=3.3V Pin=C1_6-1
+Added Pin To Net: NetName=3.3V Pin=C2_1-1
+Added Pin To Net: NetName=3.3V Pin=C2_2-1
+Added Pin To Net: NetName=3.3V Pin=C2_3-1
+Added Pin To Net: NetName=3.3V Pin=C2_4-1
+Added Pin To Net: NetName=3.3V Pin=C2_5-1
+Added Pin To Net: NetName=3.3V Pin=C2_6-1
+Added Pin To Net: NetName=3.3V Pin=C4_1-1
+Added Pin To Net: NetName=3.3V Pin=C4_2-1
+Added Pin To Net: NetName=3.3V Pin=C4_3-1
+Added Pin To Net: NetName=3.3V Pin=C5_1-1
+Added Pin To Net: NetName=3.3V Pin=C5_2-1
+Added Pin To Net: NetName=3.3V Pin=C5_3-1
+Added Pin To Net: NetName=3.3V Pin=R3_1-2
+Added Pin To Net: NetName=3.3V Pin=R3_2-2
+Added Pin To Net: NetName=3.3V Pin=R3_3-2
+Added Net: Name=3.3V
+Add Net: Net with name "3.3V" already exists
+Added Pin To Net: NetName=AGND Pin=RJ_Isns1-5
+Added Pin To Net: NetName=AGND Pin=RJ_Isns2-5
+Added Pin To Net: NetName=AGND Pin=RJ_Isns3-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vdc-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns1-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns2-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns3-5
+Added Net: Name=AGND
+Added Pin To Net: NetName=Data_In_EncA Pin=MES_3_1-1
+Added Pin To Net: NetName=Data_In_EncA Pin=R2_1-2
+Added Pin To Net: NetName=Data_In_EncA Pin=R3_1-1
+Added Net: Name=Data_In_EncA
+Added Pin To Net: NetName=Data_In_EncB Pin=MES_3_2-1
+Added Pin To Net: NetName=Data_In_EncB Pin=R2_2-2
+Added Pin To Net: NetName=Data_In_EncB Pin=R3_2-1
+Added Net: Name=Data_In_EncB
+Added Pin To Net: NetName=Data_In_EncI Pin=MES_3_3-1
+Added Pin To Net: NetName=Data_In_EncI Pin=R2_3-2
+Added Pin To Net: NetName=Data_In_EncI Pin=R3_3-1
+Added Net: Name=Data_In_EncI
+Added Pin To Net: NetName=Data_Out_PWMH1 Pin=MES_6_1-1
+Added Pin To Net: NetName=Data_Out_PWMH1 Pin=R1_1-2
+Added Net: Name=Data_Out_PWMH1
+Added Pin To Net: NetName=Data_Out_PWMH2 Pin=MES_6_3-1
+Added Pin To Net: NetName=Data_Out_PWMH2 Pin=R1_3-2
+Added Net: Name=Data_Out_PWMH2
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=MES_6_5-1
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=R1_5-2
+Added Net: Name=Data_Out_PWMH3
+Added Pin To Net: NetName=Data_Out_PWML1 Pin=MES_6_2-1
+Added Pin To Net: NetName=Data_Out_PWML1 Pin=R1_2-2
+Added Net: Name=Data_Out_PWML1
+Added Pin To Net: NetName=Data_Out_PWML2 Pin=MES_6_4-1
+Added Pin To Net: NetName=Data_Out_PWML2 Pin=R1_4-2
+Added Net: Name=Data_Out_PWML2
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=MES_6_6-1
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=R1_6-2
+Added Net: Name=Data_Out_PWML3
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_1-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_1-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_1-8
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_2-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_2-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_2-8
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_3-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_3-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_3-8
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_4-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_4-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_4-8
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_5-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_5-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_5-8
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_6-2
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_6-5
+Added Pin To Net: NetName=GND_1 Pin=AFBR-RX_6-8
+Added Pin To Net: NetName=GND_1 Pin=C1_1-2
+Added Pin To Net: NetName=GND_1 Pin=C1_2-2
+Added Pin To Net: NetName=GND_1 Pin=C1_3-2
+Added Pin To Net: NetName=GND_1 Pin=C1_4-2
+Added Pin To Net: NetName=GND_1 Pin=C1_5-2
+Added Pin To Net: NetName=GND_1 Pin=C1_6-2
+Added Pin To Net: NetName=GND_1 Pin=C2_1-2
+Added Pin To Net: NetName=GND_1 Pin=C2_2-2
+Added Pin To Net: NetName=GND_1 Pin=C2_3-2
+Added Pin To Net: NetName=GND_1 Pin=C2_4-2
+Added Pin To Net: NetName=GND_1 Pin=C2_5-2
+Added Pin To Net: NetName=GND_1 Pin=C2_6-2
+Added Pin To Net: NetName=GND_1 Pin=C3_1-2
+Added Pin To Net: NetName=GND_1 Pin=C3_2-2
+Added Pin To Net: NetName=GND_1 Pin=C3_3-2
+Added Pin To Net: NetName=GND_1 Pin=C3_4-2
+Added Pin To Net: NetName=GND_1 Pin=C3_5-2
+Added Pin To Net: NetName=GND_1 Pin=C3_6-2
+Added Pin To Net: NetName=GND_1 Pin=GND_6_1-1
+Added Pin To Net: NetName=GND_1 Pin=GND_6_2-1
+Added Pin To Net: NetName=GND_1 Pin=GND_6_3-1
+Added Pin To Net: NetName=GND_1 Pin=GND_6_4-1
+Added Pin To Net: NetName=GND_1 Pin=GND_6_5-1
+Added Pin To Net: NetName=GND_1 Pin=GND_6_6-1
+Added Net: Name=GND_1
+Add Net: Net with name "GND_1" already exists
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Net: Name=GND
+Added Net: Name=LEDact
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=AFBR-RX_1-1
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=C3_1-1
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=R1_1-1
+Added Net: Name=NetAFBR-RX_1_1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=AFBR-RX_2-1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=C3_2-1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=R1_2-1
+Added Net: Name=NetAFBR-RX_2_1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=AFBR-RX_3-1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=C3_3-1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=R1_3-1
+Added Net: Name=NetAFBR-RX_3_1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=AFBR-RX_4-1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=C3_4-1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=R1_4-1
+Added Net: Name=NetAFBR-RX_4_1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=AFBR-RX_5-1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=C3_5-1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=R1_5-1
+Added Net: Name=NetAFBR-RX_5_1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=AFBR-RX_6-1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=C3_6-1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=R1_6-1
+Added Net: Name=NetAFBR-RX_6_1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=AFBR-TX_1-4
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=C6_1-1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=R2_1-1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=R4_1-2
+Added Net: Name=NetAFBR-TX_1_4
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=AFBR-TX_2-4
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=C6_2-1
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=R2_2-1
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=R4_2-2
+Added Net: Name=NetAFBR-TX_2_4
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=AFBR-TX_3-4
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=C6_3-1
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=R2_3-1
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=R4_3-2
+Added Net: Name=NetAFBR-TX_3_4
+Added Net: Name=OCPn
+Added Class: Name=AFBR-RX1
+Added Class: Name=AFBR-RX2
+Added Class: Name=AFBR-RX3
+Added Class: Name=AFBR-RX4
+Added Class: Name=AFBR-RX5
+Added Class: Name=AFBR-RX6
+Added Class: Name=AFBR-TX1
+Added Class: Name=AFBR-TX2
+Added Class: Name=AFBR-TX3
+Added Class: Name=Fibre-Optic-Interface_main
+Added Class: Name=AFBR-RX-fiber_optic_reciever
+Added Class: Name=AFBR-TX-fiber_optic_transmiter

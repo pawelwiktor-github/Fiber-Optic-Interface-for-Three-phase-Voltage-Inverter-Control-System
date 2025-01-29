@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found 0603R
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Add Pin To Net: Unknown Pin: Pin R_Vdc-2
+Added Pin To Net: NetName=NetR_Vdc_1 Pin=RJ_Vdc-6
+Added Net: Name=NetR_Vdc_1
+Add Class Member: Failed to add class member : Component R_Vdc 0
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns3 RJ45 Vertical

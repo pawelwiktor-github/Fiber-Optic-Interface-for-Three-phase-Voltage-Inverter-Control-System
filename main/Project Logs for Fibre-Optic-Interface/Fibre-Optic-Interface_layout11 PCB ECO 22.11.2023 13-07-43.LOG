@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=Shield Pin=R_Vdc-2
+Removed Member From Class: ClassName=AFBR-RX1 Member=GND
+Removed Member From Class: ClassName=AFBR-RX2 Member=GND
+Removed Member From Class: ClassName=AFBR-RX3 Member=GND
+Removed Member From Class: ClassName=AFBR-RX4 Member=GND
+Removed Member From Class: ClassName=AFBR-RX5 Member=GND
+Removed Member From Class: ClassName=AFBR-RX6 Member=GND
+Removed Member From Class: ClassName=AFBR-TX2 Member=GND
+Removed Member From Class: ClassName=AFBR-TX3 Member=GND
+Removed Member From Class: ClassName=Fibre-Optic-Interface_main Member=R_Vdc
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Footprint: Footprint Not Found 4-338088
+Change Component Footprint: Designator=RJ_Vdc Old Footprint=4-338088 - duplicate New Footprint=CUC-SP-J1ST-S/R4LT
+Change Component Footprint: Designator=RJ_Vsns1 Old Footprint=4-338088 - duplicate New Footprint=CUC-SP-J1ST-S/R4LT
+Change Component Comment : Designator=RJ_Vdc Old Comment=4-338088-3 New Comment=RJ45 Vertical
+Change Component Comment : Designator=RJ_Vsns1 Old Comment=4-338088-3 New Comment=RJ45 Vertical
+Change Component Designator: OldDesignator=ENCA NewDesignator=MES_1_1
+Change Component Designator: OldDesignator=ENCB NewDesignator=MES_1_2
+Change Component Designator: OldDesignator=ENCI NewDesignator=MES_1_3
+Change Component Designator: OldDesignator=GND NewDesignator=GND_1_1
+Change Component Designator: OldDesignator=GND NewDesignator=GND_1_2
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_1
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_2
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_3
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_4
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_5
+Change Component Designator: OldDesignator=GND NewDesignator=GND_2_6
+Change Component Designator: OldDesignator=PWMH1 NewDesignator=MES_2_2
+Change Component Designator: OldDesignator=PWMH2 NewDesignator=MES_2_4
+Change Component Designator: OldDesignator=PWMH3 NewDesignator=MES_2_5
+Change Component Designator: OldDesignator=PWML1 NewDesignator=MES_2_3
+Change Component Designator: OldDesignator=PWML2 NewDesignator=MES_2_6
+Change Component Designator: OldDesignator=PWML3 NewDesignator=MES_2_1
+Add Component: Footprint Not Found 0603R
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Add Pin To Net: Unknown Pin: Pin R_Vdc?-2
+Added Pin To Net: NetName=NetR_Vdc?_1 Pin=RJ_Vdc-6
+Added Net: Name=NetR_Vdc?_1
+Added Member To Class: ClassName=AFBR-TX2 Member=Component GND_1_2 (GND_1) PK_1
+Added Member To Class: ClassName=AFBR-TX3 Member=Component GND_1_3 (GND_1) PK_1
+Added Member To Class: ClassName=AFBR-RX1 Member=Component GND_2_1 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX2 Member=Component GND_2_2 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX3 Member=Component GND_2_3 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX4 Member=Component GND_2_4 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX5 Member=Component GND_2_5 (GND_2) PK_1
+Added Member To Class: ClassName=AFBR-RX6 Member=Component GND_2_6 (GND_2) PK_1
+Add Class Member: Failed to add class member : Component R_Vdc? 0

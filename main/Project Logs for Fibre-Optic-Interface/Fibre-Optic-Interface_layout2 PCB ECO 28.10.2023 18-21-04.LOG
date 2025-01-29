@@ -1,0 +1,38 @@
+Added Component: Designator=J60(J60_Connector)
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=J60-10
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=J60-12
+Added Pin To Net: NetName=Data_In_EncA Pin=J60-14
+Added Pin To Net: NetName=AGND Pin=J60-17
+Added Pin To Net: NetName=Data_In_EncB Pin=J60-18
+Added Pin To Net: NetName=AGND Pin=J60-19
+Added Pin To Net: NetName=Data_In_EncI Pin=J60-20
+Added Pin To Net: NetName=AGND Pin=J60-21
+Added Pin To Net: NetName=Signal_Vdc Pin=J60-22
+Added Pin To Net: NetName=AGND Pin=J60-23
+Added Pin To Net: NetName=Signal_Vsns1 Pin=J60-24
+Added Pin To Net: NetName=AGND Pin=J60-25
+Added Pin To Net: NetName=Signal_Vsns2 Pin=J60-26
+Added Pin To Net: NetName=AGND Pin=J60-27
+Added Pin To Net: NetName=Signal_Vsns3 Pin=J60-28
+Added Pin To Net: NetName=AGND Pin=J60-29
+Added Pin To Net: NetName=AGND Pin=J60-31
+Added Pin To Net: NetName=Signal_Isns1 Pin=J60-32
+Added Pin To Net: NetName=AGND Pin=J60-33
+Added Pin To Net: NetName=Signal_Isns2 Pin=J60-34
+Added Pin To Net: NetName=AGND Pin=J60-35
+Added Pin To Net: NetName=Signal_Isns3 Pin=J60-36
+Added Pin To Net: NetName=OCPn Pin=J60-37
+Added Pin To Net: NetName=PGood_EN Pin=J60-38
+Added Pin To Net: NetName=LEDact Pin=J60-39
+Added Pin To Net: NetName=Tsns Pin=J60-40
+Add Net: Net with name "3.3V" already exists
+Add Net: Net with name "GND_1" already exists
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component J60 MEC1-120-02-F-D-EM2

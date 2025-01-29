@@ -1,0 +1,12 @@
+Remove Pin=J60-2 From Net=Data_Out_PWMH1
+Remove Pin=J60-4 From Net=Data_Out_PWML1
+Remove Pin=J60-6 From Net=Data_Out_PWMH2
+Remove Pin=J60-8 From Net=Data_Out_PWML2
+Change Component Designator: OldDesignator=R2 NewDesignator=R?_1
+Change Component Designator: OldDesignator=R?_1 NewDesignator=R?_2
+Change Component Designator: OldDesignator=R?_2 NewDesignator=R?_3
+Change Component Designator: OldDesignator=R?_3 NewDesignator=R?_4
+Change Component Designator: OldDesignator=R?_4 NewDesignator=R?_5
+Change Component Designator: OldDesignator=R?_5 NewDesignator=R?_6
+Add Pin To Net: Pin=RJ_Vsns1-3 Old Net=Shield New Net=Screen_2
+Add Pin To Net: Pin=RJ_Vsns1-6 Old Net=Shield New Net=Screen_1

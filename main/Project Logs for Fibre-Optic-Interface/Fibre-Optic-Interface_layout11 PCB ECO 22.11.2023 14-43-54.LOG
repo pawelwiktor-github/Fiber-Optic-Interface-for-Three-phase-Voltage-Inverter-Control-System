@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Shield Pin=R_Vdc-1
+Removed Pin From Net: NetName=NetR_Vsns1_1 Pin=R_Vdc-2
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Added Pin To Net: NetName=NetR_Vdc_1 Pin=R_Vdc-1
+Added Pin To Net: NetName=Shield Pin=R_Vdc-2
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component R_Vdc 0

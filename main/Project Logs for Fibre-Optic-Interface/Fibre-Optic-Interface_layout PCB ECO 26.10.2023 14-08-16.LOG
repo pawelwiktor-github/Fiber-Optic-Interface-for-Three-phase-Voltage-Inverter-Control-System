@@ -1,0 +1,395 @@
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever1
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever2
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever3
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever4
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever5
+Removed Member From Class: ClassName=AFBR-RX-fiber_optic_reciever Member=U_AFBR-RX-fiber_optic_reciever6
+Removed Member From Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=U_AFBR-TX-fiber_optic_transmiter1
+Removed Member From Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=U_AFBR-TX-fiber_optic_transmiter2
+Removed Member From Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=U_AFBR-TX-fiber_optic_transmiter3
+Added Component: Designator=AFBR-RX_1(AFBR-TX/RX)
+Added Component: Designator=AFBR-RX_2(AFBR-TX/RX)
+Added Component: Designator=AFBR-RX_3(AFBR-TX/RX)
+Added Component: Designator=AFBR-RX_4(AFBR-TX/RX)
+Added Component: Designator=AFBR-RX_5(AFBR-TX/RX)
+Added Component: Designator=AFBR-RX_6(AFBR-TX/RX)
+Added Component: Designator=AFBR-TX_1(AFBR-TX/RX)
+Added Component: Designator=AFBR-TX_2(AFBR-TX/RX)
+Added Component: Designator=AFBR-TX_3(AFBR-TX/RX)
+Added Component: Designator=C1_1(1206)
+Added Component: Designator=C1_2(1206)
+Added Component: Designator=C1_3(1206)
+Added Component: Designator=C1_4(1206)
+Added Component: Designator=C1_5(1206)
+Added Component: Designator=C1_6(1206)
+Added Component: Designator=C2_1(0603)
+Added Component: Designator=C2_2(0603)
+Added Component: Designator=C2_3(0603)
+Added Component: Designator=C2_4(0603)
+Added Component: Designator=C2_5(0603)
+Added Component: Designator=C2_6(0603)
+Added Component: Designator=C3_1(0603)
+Added Component: Designator=C3_2(0603)
+Added Component: Designator=C3_3(0603)
+Added Component: Designator=C3_4(0603)
+Added Component: Designator=C3_5(0603)
+Added Component: Designator=C3_6(0603)
+Added Component: Designator=C4_1(1206)
+Added Component: Designator=C4_2(1206)
+Added Component: Designator=C4_3(1206)
+Added Component: Designator=C5_1(0603)
+Added Component: Designator=C5_2(0603)
+Added Component: Designator=C5_3(0603)
+Added Component: Designator=C6_1(0603)
+Added Component: Designator=C6_2(0603)
+Added Component: Designator=C6_3(0603)
+Added Component: Designator=GND_1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_4(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_5(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_6(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TBG2-3.5MM_H)
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J60(SAMTEC_MEC1-120-02-X-D)
+Added Component: Designator=MES_1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_4(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_5(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_6(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=R1_1(0603)
+Added Component: Designator=R1_2(0603)
+Added Component: Designator=R1_3(0603)
+Added Component: Designator=R1_4(0603)
+Added Component: Designator=R1_5(0603)
+Added Component: Designator=R1_6(0603)
+Added Component: Designator=R2_1(0603)
+Added Component: Designator=R2_2(0603)
+Added Component: Designator=R2_3(0603)
+Added Component: Designator=R3_1(0603)
+Added Component: Designator=R3_2(0603)
+Added Component: Designator=R3_3(0603)
+Added Component: Designator=R4_1(0603)
+Added Component: Designator=R4_2(0603)
+Added Component: Designator=R4_3(0603)
+Added Component: Designator=RJ_Isns1(215876-2)
+Added Component: Designator=RJ_Isns2(215876-2)
+Added Component: Designator=RJ_Isns3(215876-2)
+Added Component: Designator=RJ_Vdc(215876-2)
+Added Component: Designator=RJ_Vsns1(215876-2)
+Added Component: Designator=RJ_Vsns2(215876-2)
+Added Component: Designator=RJ_Vsns3(215876-2)
+Added Component: Designator=SMA1_1(SMA CON)
+Added Component: Designator=SMA1_2(SMA CON)
+Added Component: Designator=SMA1_3(SMA CON)
+Added Component: Designator=SMA1_4(SMA CON)
+Added Component: Designator=SMA1_5(SMA CON)
+Added Component: Designator=SMA1_6(SMA CON)
+Added Component: Designator=SMA2_1(SMA CON)
+Added Component: Designator=SMA2_2(SMA CON)
+Added Component: Designator=SMA2_3(SMA CON)
+Added Pin To Net: NetName=3.3V (+) Pin=J1-1
+Added Net: Name=3.3V (+)
+Added Pin To Net: NetName=3.3V (-) Pin=J1-2
+Added Net: Name=3.3V (-)
+Added Net: Name=3V3(1)
+Added Pin To Net: NetName=3V3(2) Pin=J60-11
+Added Net: Name=3V3(2)
+Added Pin To Net: NetName=3V3(3) Pin=J60-13
+Added Net: Name=3V3(3)
+Added Pin To Net: NetName=Data_In_1 Pin=AFBR-TX_1-4
+Added Pin To Net: NetName=Data_In_1 Pin=C6_1-1
+Added Pin To Net: NetName=Data_In_1 Pin=J60-14
+Added Pin To Net: NetName=Data_In_1 Pin=MES_1-1
+Added Pin To Net: NetName=Data_In_1 Pin=R2_1-1
+Added Pin To Net: NetName=Data_In_1 Pin=R2_1-2
+Added Pin To Net: NetName=Data_In_1 Pin=R3_1-1
+Added Pin To Net: NetName=Data_In_1 Pin=R4_1-2
+Added Pin To Net: NetName=Data_In_1 Pin=SMA2_1-1
+Added Net: Name=Data_In_1
+Added Pin To Net: NetName=Data_In_2 Pin=AFBR-TX_2-4
+Added Pin To Net: NetName=Data_In_2 Pin=C6_2-1
+Added Pin To Net: NetName=Data_In_2 Pin=J60-18
+Added Pin To Net: NetName=Data_In_2 Pin=MES_2-1
+Added Pin To Net: NetName=Data_In_2 Pin=R2_2-1
+Added Pin To Net: NetName=Data_In_2 Pin=R2_2-2
+Added Pin To Net: NetName=Data_In_2 Pin=R3_2-1
+Added Pin To Net: NetName=Data_In_2 Pin=R4_2-2
+Added Pin To Net: NetName=Data_In_2 Pin=SMA2_2-1
+Added Net: Name=Data_In_2
+Added Pin To Net: NetName=Data_In_3 Pin=AFBR-TX_3-4
+Added Pin To Net: NetName=Data_In_3 Pin=C6_3-1
+Added Pin To Net: NetName=Data_In_3 Pin=J60-20
+Added Pin To Net: NetName=Data_In_3 Pin=MES_3-1
+Added Pin To Net: NetName=Data_In_3 Pin=R2_3-1
+Added Pin To Net: NetName=Data_In_3 Pin=R2_3-2
+Added Pin To Net: NetName=Data_In_3 Pin=R3_3-1
+Added Pin To Net: NetName=Data_In_3 Pin=R4_3-2
+Added Pin To Net: NetName=Data_In_3 Pin=SMA2_3-1
+Added Net: Name=Data_In_3
+Added Pin To Net: NetName=Data_Out_1 Pin=AFBR-RX_1-1
+Added Pin To Net: NetName=Data_Out_1 Pin=C3_1-1
+Added Pin To Net: NetName=Data_Out_1 Pin=MES_1-1
+Added Pin To Net: NetName=Data_Out_1 Pin=R1_1-1
+Added Pin To Net: NetName=Data_Out_1 Pin=R1_1-2
+Added Pin To Net: NetName=Data_Out_1 Pin=SMA1_1-1
+Added Net: Name=Data_Out_1
+Added Pin To Net: NetName=Data_Out_2 Pin=AFBR-RX_2-1
+Added Pin To Net: NetName=Data_Out_2 Pin=C3_2-1
+Added Pin To Net: NetName=Data_Out_2 Pin=MES_2-1
+Added Pin To Net: NetName=Data_Out_2 Pin=R1_2-1
+Added Pin To Net: NetName=Data_Out_2 Pin=R1_2-2
+Added Pin To Net: NetName=Data_Out_2 Pin=SMA1_2-1
+Added Net: Name=Data_Out_2
+Added Pin To Net: NetName=Data_Out_3 Pin=AFBR-RX_3-1
+Added Pin To Net: NetName=Data_Out_3 Pin=C3_3-1
+Added Pin To Net: NetName=Data_Out_3 Pin=MES_3-1
+Added Pin To Net: NetName=Data_Out_3 Pin=R1_3-1
+Added Pin To Net: NetName=Data_Out_3 Pin=R1_3-2
+Added Pin To Net: NetName=Data_Out_3 Pin=SMA1_3-1
+Added Net: Name=Data_Out_3
+Added Pin To Net: NetName=Data_Out_4 Pin=AFBR-RX_4-1
+Added Pin To Net: NetName=Data_Out_4 Pin=C3_4-1
+Added Pin To Net: NetName=Data_Out_4 Pin=MES_4-1
+Added Pin To Net: NetName=Data_Out_4 Pin=R1_4-1
+Added Pin To Net: NetName=Data_Out_4 Pin=R1_4-2
+Added Pin To Net: NetName=Data_Out_4 Pin=SMA1_4-1
+Added Net: Name=Data_Out_4
+Added Pin To Net: NetName=Data_Out_5 Pin=AFBR-RX_5-1
+Added Pin To Net: NetName=Data_Out_5 Pin=C3_5-1
+Added Pin To Net: NetName=Data_Out_5 Pin=J60-10
+Added Pin To Net: NetName=Data_Out_5 Pin=MES_5-1
+Added Pin To Net: NetName=Data_Out_5 Pin=R1_5-1
+Added Pin To Net: NetName=Data_Out_5 Pin=R1_5-2
+Added Pin To Net: NetName=Data_Out_5 Pin=SMA1_5-1
+Added Net: Name=Data_Out_5
+Added Pin To Net: NetName=Data_Out_6 Pin=AFBR-RX_6-1
+Added Pin To Net: NetName=Data_Out_6 Pin=C3_6-1
+Added Pin To Net: NetName=Data_Out_6 Pin=J60-12
+Added Pin To Net: NetName=Data_Out_6 Pin=MES_6-1
+Added Pin To Net: NetName=Data_Out_6 Pin=R1_6-1
+Added Pin To Net: NetName=Data_Out_6 Pin=R1_6-2
+Added Pin To Net: NetName=Data_Out_6 Pin=SMA1_6-1
+Added Net: Name=Data_Out_6
+Added Pin To Net: NetName=GND Pin=AFBR-RX_1-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_1-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_1-8
+Added Pin To Net: NetName=GND Pin=AFBR-RX_2-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_2-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_2-8
+Added Pin To Net: NetName=GND Pin=AFBR-RX_3-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_3-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_3-8
+Added Pin To Net: NetName=GND Pin=AFBR-RX_4-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_4-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_4-8
+Added Pin To Net: NetName=GND Pin=AFBR-RX_5-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_5-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_5-8
+Added Pin To Net: NetName=GND Pin=AFBR-RX_6-2
+Added Pin To Net: NetName=GND Pin=AFBR-RX_6-5
+Added Pin To Net: NetName=GND Pin=AFBR-RX_6-8
+Added Pin To Net: NetName=GND Pin=AFBR-TX_1-3
+Added Pin To Net: NetName=GND Pin=AFBR-TX_1-5
+Added Pin To Net: NetName=GND Pin=AFBR-TX_1-8
+Added Pin To Net: NetName=GND Pin=AFBR-TX_2-3
+Added Pin To Net: NetName=GND Pin=AFBR-TX_2-5
+Added Pin To Net: NetName=GND Pin=AFBR-TX_2-8
+Added Pin To Net: NetName=GND Pin=AFBR-TX_3-3
+Added Pin To Net: NetName=GND Pin=AFBR-TX_3-5
+Added Pin To Net: NetName=GND Pin=AFBR-TX_3-8
+Added Pin To Net: NetName=GND Pin=C1_1-2
+Added Pin To Net: NetName=GND Pin=C1_2-2
+Added Pin To Net: NetName=GND Pin=C1_3-2
+Added Pin To Net: NetName=GND Pin=C1_4-2
+Added Pin To Net: NetName=GND Pin=C1_5-2
+Added Pin To Net: NetName=GND Pin=C1_6-2
+Added Pin To Net: NetName=GND Pin=C2_1-2
+Added Pin To Net: NetName=GND Pin=C2_2-2
+Added Pin To Net: NetName=GND Pin=C2_3-2
+Added Pin To Net: NetName=GND Pin=C2_4-2
+Added Pin To Net: NetName=GND Pin=C2_5-2
+Added Pin To Net: NetName=GND Pin=C2_6-2
+Added Pin To Net: NetName=GND Pin=C3_1-2
+Added Pin To Net: NetName=GND Pin=C3_2-2
+Added Pin To Net: NetName=GND Pin=C3_3-2
+Added Pin To Net: NetName=GND Pin=C3_4-2
+Added Pin To Net: NetName=GND Pin=C3_5-2
+Added Pin To Net: NetName=GND Pin=C3_6-2
+Added Pin To Net: NetName=GND Pin=C4_1-2
+Added Pin To Net: NetName=GND Pin=C4_2-2
+Added Pin To Net: NetName=GND Pin=C4_3-2
+Added Pin To Net: NetName=GND Pin=C5_1-2
+Added Pin To Net: NetName=GND Pin=C5_2-2
+Added Pin To Net: NetName=GND Pin=C5_3-2
+Added Pin To Net: NetName=GND Pin=C6_1-2
+Added Pin To Net: NetName=GND Pin=C6_2-2
+Added Pin To Net: NetName=GND Pin=C6_3-2
+Added Pin To Net: NetName=GND Pin=GND_1-1
+Added Pin To Net: NetName=GND Pin=GND_1-1
+Added Pin To Net: NetName=GND Pin=GND_2-1
+Added Pin To Net: NetName=GND Pin=GND_2-1
+Added Pin To Net: NetName=GND Pin=GND_3-1
+Added Pin To Net: NetName=GND Pin=GND_3-1
+Added Pin To Net: NetName=GND Pin=GND_4-1
+Added Pin To Net: NetName=GND Pin=GND_5-1
+Added Pin To Net: NetName=GND Pin=GND_6-1
+Added Pin To Net: NetName=GND Pin=J60-17
+Added Pin To Net: NetName=GND Pin=J60-19
+Added Pin To Net: NetName=GND Pin=J60-21
+Added Pin To Net: NetName=GND Pin=J60-23
+Added Pin To Net: NetName=GND Pin=J60-25
+Added Pin To Net: NetName=GND Pin=J60-27
+Added Pin To Net: NetName=GND Pin=J60-29
+Added Pin To Net: NetName=GND Pin=J60-31
+Added Pin To Net: NetName=GND Pin=J60-33
+Added Pin To Net: NetName=GND Pin=J60-35
+Added Pin To Net: NetName=GND Pin=J60-37
+Added Pin To Net: NetName=GND Pin=J60-39
+Added Pin To Net: NetName=GND Pin=R4_1-1
+Added Pin To Net: NetName=GND Pin=R4_2-1
+Added Pin To Net: NetName=GND Pin=R4_3-1
+Added Pin To Net: NetName=GND Pin=RJ_Isns1-5
+Added Pin To Net: NetName=GND Pin=RJ_Isns2-5
+Added Pin To Net: NetName=GND Pin=RJ_Isns3-5
+Added Pin To Net: NetName=GND Pin=RJ_Vdc-5
+Added Pin To Net: NetName=GND Pin=RJ_Vsns1-5
+Added Pin To Net: NetName=GND Pin=RJ_Vsns2-5
+Added Pin To Net: NetName=GND Pin=RJ_Vsns3-5
+Added Pin To Net: NetName=GND Pin=SMA1_1-2
+Added Pin To Net: NetName=GND Pin=SMA1_1-2
+Added Pin To Net: NetName=GND Pin=SMA1_1-2
+Added Pin To Net: NetName=GND Pin=SMA1_1-2
+Added Pin To Net: NetName=GND Pin=SMA1_2-2
+Added Pin To Net: NetName=GND Pin=SMA1_2-2
+Added Pin To Net: NetName=GND Pin=SMA1_2-2
+Added Pin To Net: NetName=GND Pin=SMA1_2-2
+Added Pin To Net: NetName=GND Pin=SMA1_3-2
+Added Pin To Net: NetName=GND Pin=SMA1_3-2
+Added Pin To Net: NetName=GND Pin=SMA1_3-2
+Added Pin To Net: NetName=GND Pin=SMA1_3-2
+Added Pin To Net: NetName=GND Pin=SMA1_4-2
+Added Pin To Net: NetName=GND Pin=SMA1_4-2
+Added Pin To Net: NetName=GND Pin=SMA1_4-2
+Added Pin To Net: NetName=GND Pin=SMA1_4-2
+Added Pin To Net: NetName=GND Pin=SMA1_5-2
+Added Pin To Net: NetName=GND Pin=SMA1_5-2
+Added Pin To Net: NetName=GND Pin=SMA1_5-2
+Added Pin To Net: NetName=GND Pin=SMA1_5-2
+Added Pin To Net: NetName=GND Pin=SMA1_6-2
+Added Pin To Net: NetName=GND Pin=SMA1_6-2
+Added Pin To Net: NetName=GND Pin=SMA1_6-2
+Added Pin To Net: NetName=GND Pin=SMA1_6-2
+Added Pin To Net: NetName=GND Pin=SMA2_1-2
+Added Pin To Net: NetName=GND Pin=SMA2_1-2
+Added Pin To Net: NetName=GND Pin=SMA2_1-2
+Added Pin To Net: NetName=GND Pin=SMA2_1-2
+Added Pin To Net: NetName=GND Pin=SMA2_2-2
+Added Pin To Net: NetName=GND Pin=SMA2_2-2
+Added Pin To Net: NetName=GND Pin=SMA2_2-2
+Added Pin To Net: NetName=GND Pin=SMA2_2-2
+Added Pin To Net: NetName=GND Pin=SMA2_3-2
+Added Pin To Net: NetName=GND Pin=SMA2_3-2
+Added Pin To Net: NetName=GND Pin=SMA2_3-2
+Added Pin To Net: NetName=GND Pin=SMA2_3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=PGood_EN Pin=J60-38
+Added Net: Name=PGood_EN
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_1-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_2-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_3-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_4-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_5-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-RX_6-3
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-TX_1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-TX_2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=AFBR-TX_3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_4-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_5-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C1_6-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_4-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_5-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C2_6-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C4_1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C4_2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C4_3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C5_1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C5_2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=C5_3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=R3_1-2
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=R3_2-2
+Added Pin To Net: NetName=Pull-Up_3.3V_1 Pin=R3_3-2
+Added Net: Name=Pull-Up_3.3V_1
+Added Pin To Net: NetName=Signal_Isns1 Pin=J60-32
+Added Pin To Net: NetName=Signal_Isns1 Pin=RJ_Isns1-4
+Added Net: Name=Signal_Isns1
+Added Pin To Net: NetName=Signal_Isns2 Pin=J60-34
+Added Pin To Net: NetName=Signal_Isns2 Pin=RJ_Isns2-4
+Added Net: Name=Signal_Isns2
+Added Pin To Net: NetName=Signal_Isns3 Pin=J60-36
+Added Pin To Net: NetName=Signal_Isns3 Pin=RJ_Isns3-4
+Added Net: Name=Signal_Isns3
+Added Pin To Net: NetName=Signal_Vdc Pin=J60-22
+Added Pin To Net: NetName=Signal_Vdc Pin=RJ_Vdc-4
+Added Net: Name=Signal_Vdc
+Added Pin To Net: NetName=Signal_Vsns1 Pin=J60-24
+Added Pin To Net: NetName=Signal_Vsns1 Pin=RJ_Vsns1-4
+Added Net: Name=Signal_Vsns1
+Added Pin To Net: NetName=Signal_Vsns2 Pin=J60-26
+Added Pin To Net: NetName=Signal_Vsns2 Pin=RJ_Vsns2-4
+Added Net: Name=Signal_Vsns2
+Added Pin To Net: NetName=Signal_Vsns3 Pin=J60-28
+Added Pin To Net: NetName=Signal_Vsns3 Pin=RJ_Vsns3-4
+Added Net: Name=Signal_Vsns3
+Added Pin To Net: NetName=Tsns Pin=J60-40
+Added Net: Name=Tsns
+Added Class: Name=AFBR-RX1
+Added Class: Name=AFBR-RX2
+Added Class: Name=AFBR-RX3
+Added Class: Name=AFBR-RX4
+Added Class: Name=AFBR-RX5
+Added Class: Name=AFBR-RX6
+Added Class: Name=AFBR-TX1
+Added Class: Name=AFBR-TX2
+Added Class: Name=AFBR-TX3
+Added Class: Name=Fibre-Optic-Interface_main
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX1 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX2 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX3 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX4 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX5 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-RX-fiber_optic_reciever Member=AFBR-RX6 (AFBR-RX-fiber_optic_reciever.SchDoc)
+Added Member To Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=AFBR-TX1 (AFBR-TX-fiber_optic_transmiter.SchDoc)
+Added Member To Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=AFBR-TX2 (AFBR-TX-fiber_optic_transmiter.SchDoc)
+Added Member To Class: ClassName=AFBR-TX-fiber_optic_transmiter Member=AFBR-TX3 (AFBR-TX-fiber_optic_transmiter.SchDoc)

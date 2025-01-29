@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=SMA1_1-2
+Removed Pin From Net: NetName=GND Pin=SMA1_1-2
+Removed Pin From Net: NetName=GND Pin=SMA1_1-2
+Removed Pin From Net: NetName=GND Pin=SMA1_1-2
+Removed Pin From Net: NetName=GND Pin=SMA1_2-2
+Removed Pin From Net: NetName=GND Pin=SMA1_2-2
+Removed Pin From Net: NetName=GND Pin=SMA1_2-2
+Removed Pin From Net: NetName=GND Pin=SMA1_2-2
+Removed Pin From Net: NetName=GND Pin=SMA1_3-2
+Removed Pin From Net: NetName=GND Pin=SMA1_3-2
+Removed Pin From Net: NetName=GND Pin=SMA1_3-2
+Removed Pin From Net: NetName=GND Pin=SMA1_3-2
+Removed Pin From Net: NetName=GND Pin=SMA1_4-2
+Removed Pin From Net: NetName=GND Pin=SMA1_4-2
+Removed Pin From Net: NetName=GND Pin=SMA1_4-2
+Removed Pin From Net: NetName=GND Pin=SMA1_4-2
+Removed Pin From Net: NetName=GND Pin=SMA1_5-2
+Removed Pin From Net: NetName=GND Pin=SMA1_5-2
+Removed Pin From Net: NetName=GND Pin=SMA1_5-2
+Removed Pin From Net: NetName=GND Pin=SMA1_5-2
+Removed Pin From Net: NetName=GND Pin=SMA1_6-2
+Removed Pin From Net: NetName=GND Pin=SMA1_6-2
+Removed Pin From Net: NetName=GND Pin=SMA1_6-2
+Removed Pin From Net: NetName=GND Pin=SMA1_6-2
+Removed Pin From Net: NetName=GND Pin=SMA2_1-2
+Removed Pin From Net: NetName=GND Pin=SMA2_1-2
+Removed Pin From Net: NetName=GND Pin=SMA2_1-2
+Removed Pin From Net: NetName=GND Pin=SMA2_1-2
+Removed Pin From Net: NetName=GND Pin=SMA2_2-2
+Removed Pin From Net: NetName=GND Pin=SMA2_2-2
+Removed Pin From Net: NetName=GND Pin=SMA2_2-2
+Removed Pin From Net: NetName=GND Pin=SMA2_2-2
+Removed Pin From Net: NetName=GND Pin=SMA2_3-2
+Removed Pin From Net: NetName=GND Pin=SMA2_3-2
+Removed Pin From Net: NetName=GND Pin=SMA2_3-2
+Removed Pin From Net: NetName=GND Pin=SMA2_3-2
+Removed Member From Class: ClassName=AFBR-RX2 Member=SMA1_2
+Removed Member From Class: ClassName=AFBR-RX3 Member=SMA1_3
+Removed Member From Class: ClassName=AFBR-RX4 Member=SMA1_4
+Removed Member From Class: ClassName=AFBR-RX5 Member=SMA1_5
+Removed Member From Class: ClassName=AFBR-RX6 Member=SMA1_6
+Removed Member From Class: ClassName=AFBR-TX1 Member=SMA2_1
+Removed Member From Class: ClassName=AFBR-TX2 Member=SMA2_2
+Removed Member From Class: ClassName=AFBR-TX3 Member=SMA2_3
+Added Pin To Net: NetName=GND Pin=AFBR-RX_1-1
+Added Pin To Net: NetName=GND Pin=AFBR-RX_2-1
+Added Pin To Net: NetName=GND Pin=AFBR-RX_3-1
+Added Pin To Net: NetName=GND Pin=AFBR-RX_4-1
+Added Pin To Net: NetName=GND Pin=AFBR-RX_5-1
+Added Pin To Net: NetName=GND Pin=AFBR-RX_6-1
+Added Pin To Net: NetName=GND Pin=AFBR-TX_1-4
+Added Pin To Net: NetName=GND Pin=AFBR-TX_2-4
+Added Pin To Net: NetName=GND Pin=AFBR-TX_3-4
+Added Pin To Net: NetName=GND Pin=C3_1-1
+Added Pin To Net: NetName=GND Pin=C3_2-1
+Added Pin To Net: NetName=GND Pin=C3_3-1
+Added Pin To Net: NetName=GND Pin=C3_4-1
+Added Pin To Net: NetName=GND Pin=C3_5-1
+Added Pin To Net: NetName=GND Pin=C3_6-1
+Added Pin To Net: NetName=GND Pin=C6_1-1
+Added Pin To Net: NetName=GND Pin=C6_2-1
+Added Pin To Net: NetName=GND Pin=C6_3-1
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Added Pin To Net: NetName=GND Pin=J60-10
+Added Pin To Net: NetName=GND Pin=J60-12
+Added Pin To Net: NetName=GND Pin=J60-14
+Added Pin To Net: NetName=GND Pin=J60-18
+Added Pin To Net: NetName=GND Pin=J60-20
+Added Pin To Net: NetName=GND Pin=MES_1-1
+Added Pin To Net: NetName=GND Pin=MES_1-1
+Added Pin To Net: NetName=GND Pin=MES_2-1
+Added Pin To Net: NetName=GND Pin=MES_2-1
+Added Pin To Net: NetName=GND Pin=MES_3-1
+Added Pin To Net: NetName=GND Pin=MES_3-1
+Added Pin To Net: NetName=GND Pin=MES_4-1
+Added Pin To Net: NetName=GND Pin=MES_5-1
+Added Pin To Net: NetName=GND Pin=MES_6-1
+Added Pin To Net: NetName=GND Pin=R1_1-1
+Added Pin To Net: NetName=GND Pin=R1_1-2
+Added Pin To Net: NetName=GND Pin=R1_2-1
+Added Pin To Net: NetName=GND Pin=R1_2-2
+Added Pin To Net: NetName=GND Pin=R1_3-1
+Added Pin To Net: NetName=GND Pin=R1_3-2
+Added Pin To Net: NetName=GND Pin=R1_4-1
+Added Pin To Net: NetName=GND Pin=R1_4-2
+Added Pin To Net: NetName=GND Pin=R1_5-1
+Added Pin To Net: NetName=GND Pin=R1_5-2
+Added Pin To Net: NetName=GND Pin=R1_6-1
+Added Pin To Net: NetName=GND Pin=R1_6-2
+Added Pin To Net: NetName=GND Pin=R2_1-1
+Added Pin To Net: NetName=GND Pin=R2_1-2
+Added Pin To Net: NetName=GND Pin=R2_2-1
+Added Pin To Net: NetName=GND Pin=R2_2-2
+Added Pin To Net: NetName=GND Pin=R2_3-1
+Added Pin To Net: NetName=GND Pin=R2_3-2
+Added Pin To Net: NetName=GND Pin=R3_1-1
+Added Pin To Net: NetName=GND Pin=R3_2-1
+Added Pin To Net: NetName=GND Pin=R3_3-1
+Added Pin To Net: NetName=GND Pin=R4_1-2
+Added Pin To Net: NetName=GND Pin=R4_2-2
+Added Pin To Net: NetName=GND Pin=R4_3-2
+Change Net Name : Old Net Name=GND New Net Name=Data_In_1
+Change Net Name : Old Net Name=Pull-Up_3.3V_1 New Net Name=3.3V
+Added Net: Name=3v3(1)

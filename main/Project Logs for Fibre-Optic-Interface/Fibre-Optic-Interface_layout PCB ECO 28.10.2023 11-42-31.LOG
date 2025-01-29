@@ -1,0 +1,215 @@
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_4-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_5-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-RX_6-1
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-TX_1-4
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-TX_2-4
+Removed Pin From Net: NetName=Data_In_1 Pin=AFBR-TX_3-4
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_4-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_5-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C3_6-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C6_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C6_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=C6_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-10
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-12
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-14
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-17
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-18
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-19
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-20
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-21
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-23
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-25
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-27
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-29
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-31
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-33
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-35
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-37
+Removed Pin From Net: NetName=Data_In_1 Pin=J60-39
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_4-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_5-1
+Removed Pin From Net: NetName=Data_In_1 Pin=MES_6-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_1-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_2-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_3-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_4-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_4-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_5-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_5-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_6-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R1_6-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_1-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_2-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R2_3-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R3_1-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R3_2-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R3_3-1
+Removed Pin From Net: NetName=Data_In_1 Pin=R4_1-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R4_2-2
+Removed Pin From Net: NetName=Data_In_1 Pin=R4_3-2
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Isns1-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Isns2-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Isns3-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Vdc-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Vsns1-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Vsns2-5
+Removed Pin From Net: NetName=Data_In_1 Pin=RJ_Vsns3-5
+Removed Member From Class: ClassName=AFBR-TX1 Member=GND_1
+Removed Member From Class: ClassName=AFBR-RX2 Member=GND_2
+Removed Member From Class: ClassName=AFBR-RX3 Member=GND_3
+Removed Member From Class: ClassName=AFBR-TX1 Member=MES_1
+Removed Member From Class: ClassName=AFBR-TX2 Member=MES_2
+Removed Member From Class: ClassName=AFBR-RX3 Member=MES_3
+Change Component Comment : Designator=GND_1 Old Comment=PK_1 New Comment=PK2
+Change Component Comment : Designator=GND_2 Old Comment=PK_1 New Comment=PK2
+Change Component Comment : Designator=GND_3 Old Comment=PK_1 New Comment=PK2
+Change Component Comment : Designator=GND_4 Old Comment=PK_1 New Comment=PK2
+Change Component Comment : Designator=GND_5 Old Comment=PK_1 New Comment=PK2
+Change Component Comment : Designator=GND_6 Old Comment=PK_1 New Comment=PK2
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND-TX_1
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND-TX_1
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND-TX_2
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND-TX_2
+Change Component Designator: OldDesignator=GND_3 NewDesignator=GND-TX_3
+Change Component Designator: OldDesignator=GND_3 NewDesignator=GND-TX_3
+Change Component Designator: OldDesignator=GND_4 NewDesignator=GND-TX_4
+Change Component Designator: OldDesignator=GND_5 NewDesignator=GND-TX_5
+Change Component Designator: OldDesignator=GND_6 NewDesignator=GND-TX_6
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES-RX_1
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES-TX_1
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES-RX_2
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES-TX_2
+Change Component Designator: OldDesignator=MES_3 NewDesignator=MES-RX_3
+Change Component Designator: OldDesignator=MES_3 NewDesignator=MES-TX_3
+Change Component Designator: OldDesignator=MES_4 NewDesignator=MES-RX_4
+Change Component Designator: OldDesignator=MES_5 NewDesignator=MES-RX_5
+Change Component Designator: OldDesignator=MES_6 NewDesignator=MES-RX_6
+Added Pin To Net: NetName=Data_In_1 Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-7
+Change Net Name : Old Net Name=3.3V (+) New Net Name=3.3V
+Change Net Name : Old Net Name=Data_In_1 New Net Name=GND
+Added Pin To Net: NetName=3V3 Pin=J60-11
+Added Pin To Net: NetName=3V3 Pin=J60-13
+Added Net: Name=3V3
+Added Pin To Net: NetName=AGND Pin=J60-17
+Added Pin To Net: NetName=AGND Pin=J60-19
+Added Pin To Net: NetName=AGND Pin=J60-21
+Added Pin To Net: NetName=AGND Pin=J60-23
+Added Pin To Net: NetName=AGND Pin=J60-25
+Added Pin To Net: NetName=AGND Pin=J60-27
+Added Pin To Net: NetName=AGND Pin=J60-29
+Added Pin To Net: NetName=AGND Pin=J60-31
+Added Pin To Net: NetName=AGND Pin=J60-33
+Added Pin To Net: NetName=AGND Pin=J60-35
+Added Pin To Net: NetName=AGND Pin=J60-37
+Added Pin To Net: NetName=AGND Pin=J60-39
+Added Pin To Net: NetName=AGND Pin=RJ_Isns1-5
+Added Pin To Net: NetName=AGND Pin=RJ_Isns2-5
+Added Pin To Net: NetName=AGND Pin=RJ_Isns3-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vdc-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns1-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns2-5
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns3-5
+Added Net: Name=AGND
+Added Pin To Net: NetName=Data_In_EncA Pin=J60-14
+Added Pin To Net: NetName=Data_In_EncA Pin=MES-TX_1-1
+Added Pin To Net: NetName=Data_In_EncA Pin=R2_1-2
+Added Pin To Net: NetName=Data_In_EncA Pin=R3_1-1
+Added Net: Name=Data_In_EncA
+Added Pin To Net: NetName=Data_In_EncB Pin=J60-18
+Added Pin To Net: NetName=Data_In_EncB Pin=MES-TX_2-1
+Added Pin To Net: NetName=Data_In_EncB Pin=R2_2-2
+Added Pin To Net: NetName=Data_In_EncB Pin=R3_2-1
+Added Net: Name=Data_In_EncB
+Added Pin To Net: NetName=Data_In_EncI Pin=J60-20
+Added Pin To Net: NetName=Data_In_EncI Pin=MES-TX_3-1
+Added Pin To Net: NetName=Data_In_EncI Pin=R2_3-2
+Added Pin To Net: NetName=Data_In_EncI Pin=R3_3-1
+Added Net: Name=Data_In_EncI
+Added Pin To Net: NetName=Data_Out_PWMH1 Pin=MES-RX_1-1
+Added Pin To Net: NetName=Data_Out_PWMH1 Pin=R1_1-2
+Added Net: Name=Data_Out_PWMH1
+Added Pin To Net: NetName=Data_Out_PWMH2 Pin=MES-RX_3-1
+Added Pin To Net: NetName=Data_Out_PWMH2 Pin=R1_3-2
+Added Net: Name=Data_Out_PWMH2
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=J60-10
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=MES-RX_5-1
+Added Pin To Net: NetName=Data_Out_PWMH3 Pin=R1_5-2
+Added Net: Name=Data_Out_PWMH3
+Added Pin To Net: NetName=Data_Out_PWML1 Pin=MES-RX_2-1
+Added Pin To Net: NetName=Data_Out_PWML1 Pin=R1_2-2
+Added Net: Name=Data_Out_PWML1
+Added Pin To Net: NetName=Data_Out_PWML2 Pin=MES-RX_4-1
+Added Pin To Net: NetName=Data_Out_PWML2 Pin=R1_4-2
+Added Net: Name=Data_Out_PWML2
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=J60-12
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=MES-RX_6-1
+Added Pin To Net: NetName=Data_Out_PWML3 Pin=R1_6-2
+Added Net: Name=Data_Out_PWML3
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=AFBR-RX_1-1
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=C3_1-1
+Added Pin To Net: NetName=NetAFBR-RX_1_1 Pin=R1_1-1
+Added Net: Name=NetAFBR-RX_1_1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=AFBR-RX_2-1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=C3_2-1
+Added Pin To Net: NetName=NetAFBR-RX_2_1 Pin=R1_2-1
+Added Net: Name=NetAFBR-RX_2_1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=AFBR-RX_3-1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=C3_3-1
+Added Pin To Net: NetName=NetAFBR-RX_3_1 Pin=R1_3-1
+Added Net: Name=NetAFBR-RX_3_1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=AFBR-RX_4-1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=C3_4-1
+Added Pin To Net: NetName=NetAFBR-RX_4_1 Pin=R1_4-1
+Added Net: Name=NetAFBR-RX_4_1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=AFBR-RX_5-1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=C3_5-1
+Added Pin To Net: NetName=NetAFBR-RX_5_1 Pin=R1_5-1
+Added Net: Name=NetAFBR-RX_5_1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=AFBR-RX_6-1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=C3_6-1
+Added Pin To Net: NetName=NetAFBR-RX_6_1 Pin=R1_6-1
+Added Net: Name=NetAFBR-RX_6_1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=AFBR-TX_1-4
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=C6_1-1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=R2_1-1
+Added Pin To Net: NetName=NetAFBR-TX_1_4 Pin=R4_1-2
+Added Net: Name=NetAFBR-TX_1_4
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=AFBR-TX_2-4
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=C6_2-1
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=R2_2-1
+Added Pin To Net: NetName=NetAFBR-TX_2_4 Pin=R4_2-2
+Added Net: Name=NetAFBR-TX_2_4
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=AFBR-TX_3-4
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=C6_3-1
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=R2_3-1
+Added Pin To Net: NetName=NetAFBR-TX_3_4 Pin=R4_3-2
+Added Net: Name=NetAFBR-TX_3_4
+Added Member To Class: ClassName=AFBR-TX1 Member=Component GND-TX_1 (GND-TX) PK_1
+Added Member To Class: ClassName=AFBR-RX2 Member=Component GND-TX_2 (GND-TX) PK2
+Added Member To Class: ClassName=AFBR-RX3 Member=Component GND-TX_3 (GND-TX) PK2
+Added Member To Class: ClassName=AFBR-RX3 Member=Component MES-RX_3 (MES-RX) PK_1
+Added Member To Class: ClassName=AFBR-TX1 Member=Component MES-TX_1 (MES-TX) PK_1
+Added Member To Class: ClassName=AFBR-TX2 Member=Component MES-TX_2 (MES-TX) PK_1

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Fibre-Optic-Interface.PrjPcb]
+   Generated File[Fibre-Optic-Interface_layout11.TXT]
+   Generated File[Fibre-Optic-Interface_layout11.LDP]
+   Generated File[Fibre-Optic-Interface_layout11.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:56:05 On 22.11.2023

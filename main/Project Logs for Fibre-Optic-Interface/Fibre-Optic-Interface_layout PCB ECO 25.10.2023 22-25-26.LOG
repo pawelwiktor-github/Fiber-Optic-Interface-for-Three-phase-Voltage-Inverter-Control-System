@@ -1,0 +1,318 @@
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever4(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever5(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-RX-fiber_optic_reciever6(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-TX-fiber_optic_transmiter1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-TX-fiber_optic_transmiter2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=GND_U_AFBR-TX-fiber_optic_transmiter3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever4(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever5(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-RX-fiber_optic_reciever6(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-TX-fiber_optic_transmiter1(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-TX-fiber_optic_transmiter2(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=MES_U_AFBR-TX-fiber_optic_transmiter3(PK_M3)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2(AFBR-TX/RX)
+Added Component: Designator=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3(AFBR-TX/RX)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever1(1206)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever2(1206)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever3(1206)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever4(1206)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever5(1206)
+Added Component: Designator=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever6(1206)
+Added Component: Designator=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter1(1206)
+Added Component: Designator=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter2(1206)
+Added Component: Designator=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter3(1206)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever1(0603)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever2(0603)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever3(0603)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever4(0603)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever5(0603)
+Added Component: Designator=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever6(0603)
+Added Component: Designator=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter1(0603)
+Added Component: Designator=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter2(0603)
+Added Component: Designator=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter3(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever1(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever2(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever3(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever4(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever5(0603)
+Added Component: Designator=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever6(0603)
+Added Component: Designator=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter1(0603)
+Added Component: Designator=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter2(0603)
+Added Component: Designator=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter3(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever1(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever2(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever3(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever4(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever5(0603)
+Added Component: Designator=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever6(0603)
+Added Component: Designator=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter1(0603)
+Added Component: Designator=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter2(0603)
+Added Component: Designator=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter3(0603)
+Added Component: Designator=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter1(0603)
+Added Component: Designator=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter2(0603)
+Added Component: Designator=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter3(0603)
+Added Component: Designator=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter1(0603)
+Added Component: Designator=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter2(0603)
+Added Component: Designator=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter3(0603)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever1(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever2(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever3(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever4(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever5(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-RX-fiber_optic_reciever6(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-TX-fiber_optic_transmiter1(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-TX-fiber_optic_transmiter2(SMA CON)
+Added Component: Designator=SMA?_U_AFBR-TX-fiber_optic_transmiter3(SMA CON)
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=MES_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1-4
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter1 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Net: Name=Data_In_U_AFBR-TX-fiber_optic_transmiter1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=MES_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2-4
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter2 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Net: Name=Data_In_U_AFBR-TX-fiber_optic_transmiter2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=MES_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3-4
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(R1,7,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=Data_In_U_AFBR-TX-fiber_optic_transmiter3 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Net: Name=Data_In_U_AFBR-TX-fiber_optic_transmiter3
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=MES_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever1 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever1-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=MES_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever2 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever2-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=MES_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever3 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever3-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever3
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=MES_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever4 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever4-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever4
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=MES_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever5 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever5-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever5
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=MES_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(R1,1,6)_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=Data_Out_U_AFBR-RX-fiber_optic_reciever6 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever6-1
+Added Net: Name=Data_Out_U_AFBR-RX-fiber_optic_reciever6
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=GND_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever1-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever1 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever1-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=GND_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever2-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever2 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever2-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=GND_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever3-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever3 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever3-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever3
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=GND_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever4-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever4 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever4-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever4
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=GND_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever5-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever5 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever5-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=GND_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6-5
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6-8
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=Repeat(C3,1,6)_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever6-2
+Added Pin To Net: NetName=GND_U_AFBR-RX-fiber_optic_reciever6 Pin=SMA?_U_AFBR-RX-fiber_optic_reciever6-2
+Added Net: Name=GND_U_AFBR-RX-fiber_optic_reciever6
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=GND_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1-3
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1-5
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1-8
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter1 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Net: Name=GND_U_AFBR-TX-fiber_optic_transmiter1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=GND_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2-3
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2-5
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2-8
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter2 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Net: Name=GND_U_AFBR-TX-fiber_optic_transmiter2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=GND_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3-3
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3-5
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3-8
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(C3,7,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=Repeat(R2,3,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Pin To Net: NetName=GND_U_AFBR-TX-fiber_optic_transmiter3 Pin=SMA?_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Net: Name=GND_U_AFBR-TX-fiber_optic_transmiter3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever1-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever2-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever3-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever4-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever5-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-RX,1,6)_U_AFBR-RX-fiber_optic_reciever6-3
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(AFBR-TX,1,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,1,6)_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C1,7,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever4-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever5-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,1,6)_U_AFBR-RX-fiber_optic_reciever6-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter1-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter2-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(C2,7,3)_U_AFBR-TX-fiber_optic_transmiter3-1
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter1-2
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter2-2
+Added Pin To Net: NetName=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1 Pin=Repeat(R2,1,3)_U_AFBR-TX-fiber_optic_transmiter3-2
+Added Net: Name=Pull-Up_3.3V_U_AFBR-TX-fiber_optic_transmiter1
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever1
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever2
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever3
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever4
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever5
+Added Class: Name=U_AFBR-RX-fiber_optic_reciever6
+Added Class: Name=U_AFBR-TX-fiber_optic_transmiter1
+Added Class: Name=U_AFBR-TX-fiber_optic_transmiter2
+Added Class: Name=U_AFBR-TX-fiber_optic_transmiter3
+Added Class: Name=AFBR-RX-fiber_optic_reciever
+Added Class: Name=AFBR-TX-fiber_optic_transmiter

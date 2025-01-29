@@ -1,0 +1,12 @@
+Change Component Comment: Designator=RJ_Isns1 Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Isns2 Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Isns3 Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Vdc Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Vsns1 Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Vsns2 Old Comment= New Comment=4-338088-3
+Change Component Comment: Designator=RJ_Vsns3 Old Comment= New Comment=4-338088-3
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND_3_2
+Change Component Designator: OldDesignator=GND_3_2 NewDesignator=GND_3_3
+Change Component Designator: OldDesignator=R1 NewDesignator=R2_1
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R2_2
+Change Component Designator: OldDesignator=R2_2 NewDesignator=R2_3

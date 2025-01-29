@@ -1,0 +1,38 @@
+Add Component: Footprint Not Found 0603R
+Added Component: Designator=RJ_Isns1(CUC-SP-J1ST-S/R4LT)
+Added Component: Designator=RJ_Isns2(CUC-SP-J1ST-S/R4LT)
+Added Component: Designator=RJ_Isns3(CUC-SP-J1ST-S/R4LT)
+Added Component: Designator=RJ_Vsns2(CUC-SP-J1ST-S/R4LT)
+Added Component: Designator=RJ_Vsns3(CUC-SP-J1ST-S/R4LT)
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-9
+Add Pin To Net: Unknown Pin: Pin R_Vdc?-1
+Add Pin To Net: Unknown Pin: Pin R_Vdc?-2
+Added Pin To Net: NetName=Signal_Isns1 Pin=RJ_Isns1-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns1-5
+Added Pin To Net: NetName=NetR_Isns1_1 Pin=RJ_Isns1-6
+Added Pin To Net: NetName=Signal_Isns2 Pin=RJ_Isns2-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns2-5
+Added Pin To Net: NetName=NetR_Isns2_1 Pin=RJ_Isns2-6
+Added Pin To Net: NetName=Signal_Isns3 Pin=RJ_Isns3-4
+Added Pin To Net: NetName=AGND Pin=RJ_Isns3-5
+Added Pin To Net: NetName=NetR_Isns3_1 Pin=RJ_Isns3-6
+Added Pin To Net: NetName=Signal_Vsns2 Pin=RJ_Vsns2-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns2-5
+Added Pin To Net: NetName=NetR_Vsns2_1 Pin=RJ_Vsns2-6
+Added Pin To Net: NetName=Signal_Vsns3 Pin=RJ_Vsns3-4
+Added Pin To Net: NetName=AGND Pin=RJ_Vsns3-5
+Added Pin To Net: NetName=NetR_Vsns3_1 Pin=RJ_Vsns3-6
+Add Class Member: Failed to add class member : Component R_Vdc? 0
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns1 RJ45 Vertical
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns2 RJ45 Vertical
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Isns3 RJ45 Vertical
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns2 RJ45 Vertical
+Added Member To Class: ClassName=Fibre-Optic-Interface_main Member=Component RJ_Vsns3 RJ45 Vertical

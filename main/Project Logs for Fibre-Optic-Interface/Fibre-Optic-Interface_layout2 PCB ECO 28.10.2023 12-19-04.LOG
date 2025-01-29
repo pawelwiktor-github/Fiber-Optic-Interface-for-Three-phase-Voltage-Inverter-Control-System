@@ -1,0 +1,44 @@
+Add Pin To Net: Unknown Pin: Pin J60-1
+Add Pin To Net: Unknown Pin: Pin J60-2
+Add Pin To Net: Unknown Pin: Pin J60-3
+Add Pin To Net: Unknown Pin: Pin J60-4
+Add Pin To Net: Unknown Pin: Pin J60-5
+Add Pin To Net: Unknown Pin: Pin J60-6
+Add Pin To Net: Unknown Pin: Pin J60-7
+Add Pin To Net: Unknown Pin: Pin J60-8
+Add Pin To Net: Unknown Pin: Pin J60-10
+Add Pin To Net: Unknown Pin: Pin J60-12
+Add Pin To Net: Unknown Pin: Pin J60-14
+Add Pin To Net: Unknown Pin: Pin J60-17
+Add Pin To Net: Unknown Pin: Pin J60-18
+Add Pin To Net: Unknown Pin: Pin J60-19
+Add Pin To Net: Unknown Pin: Pin J60-20
+Add Pin To Net: Unknown Pin: Pin J60-21
+Add Pin To Net: Unknown Pin: Pin J60-23
+Add Pin To Net: Unknown Pin: Pin J60-25
+Add Pin To Net: Unknown Pin: Pin J60-27
+Add Pin To Net: Unknown Pin: Pin J60-29
+Add Pin To Net: Unknown Pin: Pin J60-31
+Add Pin To Net: Unknown Pin: Pin J60-33
+Add Pin To Net: Unknown Pin: Pin J60-35
+Add Pin To Net: Unknown Pin: Pin J60-37
+Add Pin To Net: Unknown Pin: Pin J60-39
+Add Net: Net with name "3.3V" already exists
+Add Net: Net with name "GND_1" already exists
+Added Net: Name=PGood_EN
+Added Pin To Net: NetName=Signal_Isns1 Pin=RJ_Isns1-4
+Added Net: Name=Signal_Isns1
+Added Pin To Net: NetName=Signal_Isns2 Pin=RJ_Isns2-4
+Added Net: Name=Signal_Isns2
+Added Pin To Net: NetName=Signal_Isns3 Pin=RJ_Isns3-4
+Added Net: Name=Signal_Isns3
+Added Pin To Net: NetName=Signal_Vdc Pin=RJ_Vdc-4
+Added Net: Name=Signal_Vdc
+Added Pin To Net: NetName=Signal_Vsns1 Pin=RJ_Vsns1-4
+Added Net: Name=Signal_Vsns1
+Added Pin To Net: NetName=Signal_Vsns2 Pin=RJ_Vsns2-4
+Added Net: Name=Signal_Vsns2
+Added Pin To Net: NetName=Signal_Vsns3 Pin=RJ_Vsns3-4
+Added Net: Name=Signal_Vsns3
+Added Net: Name=Tsns
+Add Class Member: Failed to add class member : Component J60 MEC1-120-02-F-D-EM2

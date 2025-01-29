@@ -1,0 +1,24 @@
+Change Component Comment: Designator=GND-TX Old Comment=PK2 New Comment=PK_1
+Change Component Comment: Designator=GND-TX Old Comment=PK_1 New Comment=PK_1
+Change Component Comment: Designator=GND-TX Old Comment=PK_1 New Comment=PK_1
+Change Component Comment: Designator=GND-TX Old Comment=PK_1 New Comment=PK_1
+Change Component Comment: Designator=GND-TX Old Comment=PK_1 New Comment=PK_1
+Change Component Comment: Designator=GND-TX Old Comment=PK_1 New Comment=PK_1
+Change Component Designator: OldDesignator=GND-TX NewDesignator=GND_1
+Change Component Designator: OldDesignator=GND-TX NewDesignator=GND_1
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND_2
+Change Component Designator: OldDesignator=GND_1 NewDesignator=GND_2
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND_3
+Change Component Designator: OldDesignator=GND_2 NewDesignator=GND_3
+Change Component Designator: OldDesignator=GND_3 NewDesignator=GND_4
+Change Component Designator: OldDesignator=GND_4 NewDesignator=GND_5
+Change Component Designator: OldDesignator=GND_5 NewDesignator=GND_6
+Change Component Designator: OldDesignator=MES-RX NewDesignator=MES_1
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES_2
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES_3
+Change Component Designator: OldDesignator=MES_3 NewDesignator=MES_4
+Change Component Designator: OldDesignator=MES_4 NewDesignator=MES_5
+Change Component Designator: OldDesignator=MES_5 NewDesignator=MES_6
+Change Component Designator: OldDesignator=MES-TX NewDesignator=MES_1
+Change Component Designator: OldDesignator=MES_1 NewDesignator=MES_2
+Change Component Designator: OldDesignator=MES_2 NewDesignator=MES_3

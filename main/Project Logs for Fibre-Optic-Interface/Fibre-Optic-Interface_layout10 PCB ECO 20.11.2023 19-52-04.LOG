@@ -1,0 +1,18 @@
+Added Component: Designator=AFBR-TX4(AFBR-TX/RX-HORIZONTAL)
+Added Component: Designator=C4_4(1206)
+Added Component: Designator=C5_4(0603C)
+Added Component: Designator=C6_4(0603C)
+Added Component: Designator=OCPn(PK)
+Add component (AddParameter): Name = "ClassName"; Value = "Mechanical"; VariantName = "[No Variations]"
+Added Component: Designator=R1_4(0603R)
+Added Component: Designator=R3_4(0603R)
+Added Pin To Net: NetName=Data_In_OCPn Pin=J60-37
+Added Pin To Net: NetName=Data_In_OCPn Pin=R1_4-2
+Added Pin To Net: NetName=Data_In_OCPn Pin=R3_4-1
+Added Net: Name=Data_In_OCPn
+Added Pin To Net: NetName=NetAFBR-TX4_4 Pin=AFBR-TX4-4
+Added Pin To Net: NetName=NetAFBR-TX4_4 Pin=C6_4-1
+Added Pin To Net: NetName=NetAFBR-TX4_4 Pin=OCPn-1
+Added Pin To Net: NetName=NetAFBR-TX4_4 Pin=R1_4-1
+Added Net: Name=NetAFBR-TX4_4
+Added Class: Name=AFBR-TX4

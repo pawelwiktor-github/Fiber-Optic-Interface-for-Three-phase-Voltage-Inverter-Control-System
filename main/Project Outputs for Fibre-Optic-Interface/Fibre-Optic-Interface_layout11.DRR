@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Fibre-Optic-Interface_layout11.PcbDoc   22.11.2023  16:56:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fibre-Optic-Interface_layout11.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             157       PTH        11.69inch (297.01mm)
+T2      20mil (0.508mm)                                           Round             19        PTH        7.38inch (187.46mm)
+T3      35mil (0.9mm)                                             Round             56        PTH        9.77inch (248.10mm)
+T4      40mil (1.016mm)                                           Round             79        PTH        16.42inch (417.13mm)
+T5      55mil (1.397mm)                                           Round             2         PTH        0.14inch (3.50mm)
+T6      63mil (1.6mm)                                             Round             14        PTH        5.48inch (139.23mm)
+T7      138mil (3.5mm)                                            Round             5         PTH        13.92inch (353.65mm)
+T8      126mil (3.2mm)                                            Round             14        NPTH       5.31inch (134.91mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              346
+
+Total Processing Time (hh:mm:ss) : 00:00:00

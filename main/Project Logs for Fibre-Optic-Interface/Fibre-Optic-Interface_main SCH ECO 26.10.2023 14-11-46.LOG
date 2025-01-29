@@ -1,0 +1,5 @@
+Remove Pin=J60-2 From Net=Data_Out_PWMH1
+Remove Pin=J60-4 From Net=Data_Out_PWML1
+Remove Pin=J60-6 From Net=Data_Out_PWMH2
+Remove Pin=J60-8 From Net=Data_Out_PWML2
+Remove Pin=J60-9 From Net=3V3(1)
